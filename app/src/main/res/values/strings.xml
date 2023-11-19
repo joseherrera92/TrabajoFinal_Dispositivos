@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">List Adapters</string>
+    <string name="usuario">Juan carlos</string>
+    <string name="mensaje">mensaje</string>
+    <string name="hora">hora</string>
+    <string name="nombre">Nombre</string>
+    <string name="ultimoMensaje">Último mensaje recibido</string>
+    <string name="telefono">Teléfono</string>
+    <string name="numeroTelefono">+573145673421</string>
+    <string name="pais">País</string>
+    <string name="estado">Estado</string>
+    <string name="nombrePais">Inglaterra</string>
+    <string name="title_activity_inisiar_sesion">InisiarSesionActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="btn_registrar_pantalla">Registrarse</string>
+    <string name="btn_iniciar_pantalla">Iniciar Sesion</string>
+
+    <string name="btn_iniciar_sesion">Iniciar Sesion</string>
+
+    <string name="btn_registrarse_sesion">Registrarse</string>
+
+
+</resources>
